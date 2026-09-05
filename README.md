@@ -1,30 +1,23 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" align="center">
-    <tr>
-      <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=190&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=26&fontColor=000000&fontAlignY=35&fontFamily=roboto" alt="Banner do Perfil">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding-top: 10px;">
-        <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/mateusoliveira3107" target="_blank">
-          <img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:mateus.oliveira310709@gmail.com">
-          <img src="https://api.iconify.design/ion/mail-outline.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://wa.me/5519997966017" target="_blank">
-          <img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="position: relative; display: inline-block; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=190&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=24&fontColor=000000&fontAlignY=30&fontFamily=roboto" alt="Banner do Perfil" style="width: 100%;">
+  
+  <div style="position: absolute; bottom: 35px; left: 0; right: 0; text-align: center;">
+    <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="26" width="26" style="background-color: #24292e; border-radius: 50%; padding: 3px">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/mateusoliveira3107" target="_blank">
+      <img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="26" width="26" style="background-color: #24292e; border-radius: 50%; padding: 3px">
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:mateus.oliveira310709@gmail.com">
+      <img src="https://api.iconify.design/ion/mail-outline.svg?color=%23ffffff" height="26" width="26" style="background-color: #24292e; border-radius: 50%; padding: 3px">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://wa.me/5519997966017" target="_blank">
+      <img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="26" width="26" style="background-color: #24292e; border-radius: 50%; padding: 3px">
+    </a>
+  </div>
 </div>
 
 ---
