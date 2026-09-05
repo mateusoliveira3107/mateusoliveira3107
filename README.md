@@ -1,38 +1,38 @@
-Olá! Eu sou o Mateus 👋
+<div align="center">
+  <h1>Hi There! - Bem Vindo (a) ao Meu Perfil ! 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=120&section=header"/>
+</div>
 
-🎓 Estudante de Desenvolvimento de Sistemas
-🐍 Aprendendo Python e lógica de programação
-🔧 Explorando projetos com microcontroladores
-🚀 Sempre buscando aprender e criar coisas novas
+<p align="center">
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"></a>
+  <a href="https://github.com/seu-usuario" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30"></a>
+</p>
 
-🧠 Sobre mim
+---
 
-Sou estudante de Desenvolvimento de Sistemas e estou construindo minha base em programação, principalmente com Python.
+### 💻 Sobre Mim
 
-Atualmente estou estudando lógica de programação, desenvolvimento de projetos e explorando o mundo dos microcontroladores.
+* 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
+* 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
+* 🚀 Em constante evolução na tecnologia!
 
-Meu objetivo é evoluir constantemente e transformar o que aprendo em projetos reais. 🚀
+---
 
-🛠️ Tecnologias
-Atualmente estudando
+### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+---
 
+### 🛠️ Minhas Habilidades
 
-Também explorando
-
-🔧 Microcontroladores
-💻 Lógica de programação
-📚 Desenvolvimento de sistemas
-
-📂 Projetos
-
-Aqui você pode encontrar meus projetos, exercícios e estudos desenvolvidos durante minha jornada na programação.
-
-⭐ Confira meus repositórios para acompanhar minha evolução!
-
-📈 Minha jornada
-
-"O importante não é saber tudo, mas nunca parar de aprender."
-
-Estou constantemente estudando, praticando e criando novos projetos para evoluir como desenvolvedor.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
