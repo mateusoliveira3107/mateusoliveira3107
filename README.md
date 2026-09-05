@@ -5,12 +5,12 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
   </a>
 
   <a href="https://github.com/mateusoliveira3107" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30">
   </a>
 </p>
 
