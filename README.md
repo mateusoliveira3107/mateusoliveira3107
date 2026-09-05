@@ -10,8 +10,7 @@
   </a>
 
   <a href="https://github.com/mateusoliveira3107" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30" style="background-color: white; border-radius: 50%;
-    padding: 3px;">
+    <img src="https://api.iconify.design/ion:logo-github.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px;">
   </a>
 </p>
 
