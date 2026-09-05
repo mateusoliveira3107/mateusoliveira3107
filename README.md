@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=150&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&fontAlignY=50" alt="Banner do Perfil">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=160&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&fontAlignY=40" alt="Banner do Perfil">
 </div>
 
 <p align="center">
