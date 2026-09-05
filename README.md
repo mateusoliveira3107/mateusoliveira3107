@@ -28,7 +28,7 @@
 
 ### 🛠️ Minhas Habilidades
 
-<div align="center"> 
+<div align="left"> 
   <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
   <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
