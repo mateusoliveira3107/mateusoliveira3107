@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=190&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=26&fontColor=000000&fontAlignY=30&fontFamily=roboto" alt="Banner do Perfil" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=26&fontColor=000000&fontAlignY=30&fontFamily=roboto" alt="Banner do Perfil" style="width: 100%;">
   
   <div style="position: absolute; bottom: 35px; left: 0; right: 0; text-align: center;">
     <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
