@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&theme=radical" height="180"/>
+<img src="./profile/stats.svg" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=radical" height="180"/>
+<img src="./profile/top-langs.svg" height="180">
 
 </div>
 
