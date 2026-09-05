@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=130"/>
-  <h1>Bem Vindo (a) ao Meu Perfil! 👋</h1>
+  <a href="https://github.com/mateusoliveira3107">
+    <img src="https://capsule-render.vercel.app/api?
+    type=waving&color=gradient&customColorList=0,2,3,6,8&height=150&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
+  </a>
 </div>
 
 <p align="center">
