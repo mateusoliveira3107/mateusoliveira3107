@@ -10,12 +10,12 @@
   <desc id="descId"></desc>
   <style>
     .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      font: 600 19px 'Segoe UI', Ubuntu, Sans-Serif;
       fill: #ff4655;
       animation: fadeInAnimation 0.8s ease-in-out forwards;
     }
     @supports(-moz-appearance: auto) {
-      .header { font-size: 15.5px; }
+      .header { font-size: 16.5px; }
     }
     @keyframes slideInAnimation {
       from { width: 0; }
@@ -33,7 +33,7 @@
     }
     .bold { font-weight: 700 }
     .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      font: 400 12.5px "Segoe UI", Ubuntu, Sans-Serif;
       fill: #ffffff;
     }
     .stagger {
