@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Bem Vindo (a) ao Meu Perfil! 👋</h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180"/>
 </div>
 
 <p align="center">
