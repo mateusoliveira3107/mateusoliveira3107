@@ -28,9 +28,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655" />
+<img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&theme=radical" height="180"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&hide_border=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=radical" height="180"/>
 
 </div>
 
