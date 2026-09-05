@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/mateusoliveira3107" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" style="border-radius: 50%;">
   </a>
 </p>
 
