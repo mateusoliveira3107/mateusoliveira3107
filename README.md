@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://wa.me/5519997966017" target="_blank">
-    <img src="https://api.iconify.design/ion:logo-whatsapp.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 40px;">
+    <img src="https://api.iconify.design/ion:logo-whatsapp.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 400px;">
   </a>
 </p>
 
