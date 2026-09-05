@@ -1,11 +1,17 @@
 <div align="center">
-  <h1>Bem Vindo (a) ao Meu Perfil ! 👋</h1>
+  <h1>Bem Vindo (a) ao Meu Perfil! 👋</h1>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=120&section=header"/>
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"></a>
-  <a href="https://github.com/seu-usuario" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30"></a>
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
+  </a>
+
+  <a href="https://github.com/mateusoliveira3107" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30">
+  </a>
 </p>
 
 ---
@@ -20,9 +26,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&custom_title=Mateus Silva de Oliveira's%20GitHub%20Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655&ring_color=ff4655" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&hide_border=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff" />
+
+</div>
 
 ---
 
