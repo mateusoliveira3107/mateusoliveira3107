@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=160&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=26&fontColor=000000&fontAlignY=35&fontFamily=roboto" alt="Banner do Perfil"><br>
-
-  <div style="margin-top: -55px; margin-bottom: 30px; position: relative; z-index: 10;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=160&section=header&text=Bem%20Vindo%20(a)%20ao%20Meu%20Perfil!%20%F0%9F%91%8B&fontSize=26&fontColor=000000&fontAlignY=35&fontFamily=roboto" alt="Banner do Perfil">
+  
+  <div style="position: relative; top: -45px; margin-bottom: -20px;">
     <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
     </a>
