@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
   </a>
 
   <a href="https://github.com/mateusoliveira3107" target="_blank">
-    <img src="https://api.iconify.design/ion:logo-github.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 20px">
+    <img src="https://api.iconify.design/ion:logo-github.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
   </a>
 
   <a href="mailto:mateus.oliveira310709@gmail.com">
-    <img src="https://api.iconify.design/ion:mail-outline.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 20px">
+    <img src="https://api.iconify.design/ion:mail-outline.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px">
   </a>
 
   <a href="https://wa.me/5519997966017" target="_blank">
-    <img src="https://api.iconify.design/ion:logo-whatsapp.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 400px;">
+    <img src="https://api.iconify.design/ion:logo-whatsapp.svg?color=%23ffffff" height="30" width="30" style="background-color: #24292e; border-radius: 50%; padding: 4px;">
   </a>
 </p>
 
