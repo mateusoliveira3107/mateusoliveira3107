@@ -1,6 +1,6 @@
 <svg
-  height="225"
-  viewBox="0 0 467 170"
+  height="230"
+  viewBox="0 0 467 175"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
@@ -10,12 +10,12 @@
   <desc id="descId">Total de Estrelas: 0, Total de Commits: 73, Total de Issues: 0, Contribuições (último ano): 0</desc>
   <style>
     .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif;
       fill: #ff4655;
       animation: fadeInAnimation 0.8s ease-in-out forwards;
     }
     @supports(-moz-appearance: auto) {
-      .header { font-size: 15.5px; }
+      .header { font-size: 17.5px; }
     }
     .stat {
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ffffff;
@@ -73,7 +73,7 @@
     x="0.5"
     y="0.5"
     rx="4.5"
-    height="169"
+    height="174"
     stroke="#ffffff"
     stroke-width="2"
     width="466"
