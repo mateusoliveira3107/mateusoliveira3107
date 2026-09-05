@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
   </a>
 
   <a href="https://github.com/mateusoliveira3107" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" style="border-radius: 50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" style="border-radius: 100px;">
   </a>
 </p>
 
