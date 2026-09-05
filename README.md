@@ -21,7 +21,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655&ring_color=ff4655" alt="GitHub Stats" />
 </p>
 
 ---
