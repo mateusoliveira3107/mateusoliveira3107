@@ -26,7 +26,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
 
 <img src="./profile/stats.svg" height="180">
 
