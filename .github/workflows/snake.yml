@@ -24,7 +24,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff4655&color_dots=#181a1b,#393f42,#ff4655,#ff6b77,#ff8f99
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff4655&transparent=true
 
       - name: Enviar para a branch output
         uses: crazy-max/ghaction-github-pages@v4
