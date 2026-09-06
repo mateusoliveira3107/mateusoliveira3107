@@ -20,7 +20,7 @@
   </div>
 </div>
 
----
+<hr style="border: none; height: 3px; background-color: #D13438; border-radius: 2px;">
 
 ### 💻 Sobre Mim
 
