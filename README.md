@@ -21,6 +21,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B&height=4&section=footer" width="100%">
 
 ### 💻 Sobre Mim
 
