@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<div style="height: 3px; background-color: #FF0000; border-radius: 2px; margin: 20px 0;"></div>
+<div style="height: 30px; background-color: #FF0000; border-radius: 2px; margin: 200px 0;"></div>
 
 ### 💻 Sobre Mim
 
