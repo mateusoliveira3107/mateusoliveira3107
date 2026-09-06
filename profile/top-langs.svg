@@ -1,7 +1,6 @@
 
       <svg
-        width="300"
-        height="165"
+        height="195"
         viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +107,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >Linguagens Mais Usadas</text>
     </g>
       </g>
     
