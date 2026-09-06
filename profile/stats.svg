@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Mateus Oliveira&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 183, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <title id="titleId">Status GitHub Silva de Oliveira, Rank: C</title>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 189, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 244.43328475208344;
+        stroke-dashoffset: 244.28014989606888;
       }
     }
   
@@ -104,16 +104,15 @@
         
 
         <rect
-           data-testid="card-bg"
-           x="0.5"
-           y="0.5"
-           rx="4.5"
-           height="99%"
-           stroke="#ffffff"
-           stroke-width="2.5"
-           width="466"
-           fill="#181a1b"
-           stroke-opacity="1"
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#ffffff21"
+          width="466"
+          fill="#181a1b"
+          stroke-opacity="1"
         />
 
         
@@ -127,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Mateus Oliveira&#39;s GitHub Stats</text>
+      >Status GitHub Silva de Oliveira</text>
     </g>
       </g>
     
@@ -178,7 +177,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >183</text>
+      >189</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">

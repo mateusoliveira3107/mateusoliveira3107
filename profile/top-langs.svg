@@ -1,6 +1,7 @@
 
       <svg
-        height="195"
+        width="300"
+        height="165"
         viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -90,11 +91,10 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#ffffff"
-          stroke-width="2.5"
+          stroke="#e4e2e2"
           width="299"
           fill="#181a1b"
-          stroke-opacity="0.13"
+          stroke-opacity="0"
         />
 
         
