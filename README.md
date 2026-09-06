@@ -24,9 +24,9 @@
 
 ### 💻 Sobre Mim
 
-* 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
-* 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
-* 🚀 Em constante evolução na tecnologia!
+✦ 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
+✦ 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
+✦ 🚀 Em constante evolução na tecnologia!
 
 ---
 
@@ -54,9 +54,9 @@
 
 ### 💻 Sobre Mim
 
-* 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
-* 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
-* 🚀 Em constante evolução na tecnologia!
+✦ 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
+✦ 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
+✦ 🚀 Em constante evolução na tecnologia!
 
 ---
 
