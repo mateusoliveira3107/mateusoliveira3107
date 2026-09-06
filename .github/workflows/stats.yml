@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655
+          options: username=${{ github.repository_owner }}&custom_title=Mateus+Oliveira's+GitHub+Stats&show_icons=true&include_all_commits=true&count_private=true&bg_color=181a1b&title_color=ff4655&text_color=ffffff&icon_color=ff4655&ring_color=ff4655&locale=pt-br&border_color=ffffff21
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
