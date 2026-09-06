@@ -52,9 +52,9 @@
 
 ### ✦ Minhas Contribuições
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusolive107/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=150&section=footer" alt="Banner do Perfil" style="width: 100%;">
