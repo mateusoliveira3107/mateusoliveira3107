@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2E0814,9B1C31,D13438,FF6B35&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1A040B,2E0814,5C1122,9B1C31&height=4&section=footer&animation=rainbow" width="100%">
 
 ### 💻 Sobre Mim
 
@@ -28,7 +28,7 @@
 ✦ 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ 🚀 Em constante evolução na tecnologia!
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1A040B,2E0814,5C1122,9B1C31&height=4&section=footer&animation=rainbow" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
@@ -37,7 +37,7 @@
 <img src="./profile/top-langs.svg" height="180">
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1A040B,2E0814,5C1122,9B1C31&height=4&section=footer&animation=rainbow" width="100%">
 
 ### 🛠️ Minhas Habilidades
 
