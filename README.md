@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B050B,5C0612,8B0000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B050B&height=4&section=footer" width="100%">
 
 ### 💻 Sobre Mim
 
