@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:22C55E&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=21&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=21&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
   
   <div style="position: absolute; bottom: 25px; left: 0; right: 0; text-align: center;">
     <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank">
@@ -18,6 +18,36 @@
       <img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px">
     </a>
   </div>
+</div>
+
+---
+
+### 💻 Sobre Mim
+
+* 👨‍💻 Estou aprendendo programação e desenvolvendo lógica.
+* 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.
+* 🚀 Em constante evolução na tecnologia!
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="left">
+<img src="./profile/stats.svg" height="180">
+<img src="./profile/top-langs.svg" height="180">
+</div>
+
+---
+
+### 🛠️ Minhas Habilidades
+
+<div align="left">
+<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
