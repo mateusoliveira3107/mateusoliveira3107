@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=3&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B050B&height=4&section=footer" width="100%">
 
 ### 💻 Sobre Mim
 
@@ -28,7 +28,7 @@
 ✦ 📚 Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ 🚀 Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=3&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
@@ -37,7 +37,7 @@
 <img src="./profile/top-langs.svg" height="180">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=3&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
 
 ### 🛠️ Minhas Habilidades
 
@@ -50,4 +50,11 @@
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=100&section=footer" alt="Banner do Perfil" style="width: 100%;">
+### ✦ Minhas Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=150&section=footer" alt="Banner do Perfil" style="width: 100%;">
