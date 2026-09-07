@@ -57,12 +57,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-### ✦ Meus Projetos
-
 ### ✦ Meus Projetos & Repositórios
 
 <p align="center">
-  Explore abaixo minha central de estudos práticos, desenvolvida para aplicar conceitos reais de programação, lógica e desenvolvimento web.
+  Explore abaixo minha central de estudos práticos.
+  Desenvolvida para aplicar conceitos reais de programação, lógica e desenvolvimento web.
 </p>
 <br>
 
