@@ -65,11 +65,9 @@
 </p>
 <br>
 
-<div align="center">
   | 💻 Web (HTML, CSS & JS) | 🧠 Lógica |
   | :--- | :--- |
   | Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM. | Scripts de automação, algoritmos de base e resolução de problemas no terminal. |
-</div>
 
 <br>
 <div align="center">
