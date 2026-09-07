@@ -18,7 +18,7 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B050B&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
 
 ### 💻 Sobre Mim
 
@@ -26,7 +26,7 @@
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
@@ -48,7 +48,7 @@
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
 
 ### ★ Minhas Contribuições
 <picture>
@@ -57,7 +57,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
 
 ### ★ Constância
 <p align="left">
@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1A040B,2E0814,1A040B,000000&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
 
 ### ★ Meus Projetos & Repositórios
 
