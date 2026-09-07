@@ -1,6 +1,32 @@
 <div align="center" style="position: relative; display: inline-block; width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=21&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
 
+  <div align="center" style="position: relative; display: inline-block; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=45&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
+
+  <p align="center">
+    <a href="https://github.com/mateusoliveira3107"><img src="https://img.shields.io/badge/VISITAS-12-9B1C31?style=for-the-badge&logo=eye&logoColor=white&labelColor=9B1C31" alt="Visitas ao perfil" /></a>
+    <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white" alt="Seguidores" /></a>
+    <a href="https://github.com/mateusoliveira3107?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=star&label=ESTRELAS&logoColor=white" alt="Estrelas" /></a>
+  </p>
+  
+  <div align="center" style="position: absolute; bottom: 25px; left: 0; right: 0;">
+    <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/mateusoliveira3107" target="_blank"><img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
+    &nbsp;&nbsp;
+    <a href="mailto:mateus.oliveira310709@gmail.com"><img src="https://api.iconify.design/ion/mail-outline.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
+    &nbsp;&nbsp;
+    <a href="https://wa.me/5519997966017" target="_blank"><img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
+  </div>
+</div>
+
+<div align="center" style="background: linear-gradient(90deg, #2E0814, #9B1C31, #FF6B35); padding: 8px 0; margin-top: -4px;">
+  <marquee behavior="alternate" scrollamount="4" width="350px">
+    <span style="color: #FFFFFF; font-weight: 600; font-size: 16px; font-family: sans-serif;">Estudante de Desenvolvimento de Sistemas</span>
+  </marquee>
+</div>
+  
   <p align="center">
     <a href="https://github.com/mateusoliveira3107"><img src="https://img.shields.io/badge/VISITAS-12-9B1C31?style=for-the-badge&logo=eye&logoColor=FF6B35&labelColor=2E0814" alt="Visitas ao perfil" /></a>
     <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white" alt="Seguidores" /></a>
