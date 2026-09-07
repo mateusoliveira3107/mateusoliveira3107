@@ -56,6 +56,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+
+### ✦ Constância
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=000000&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+</p>
+
 ### ✦ Meus Projetos & Repositórios
 
 <p align="left">
