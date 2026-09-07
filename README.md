@@ -59,9 +59,33 @@
 
 ### ✦ Meus Projetos
 
+### ✦ Meus Projetos & Repositórios
+
+<p align="center">
+  Explore abaixo minha central de estudos práticos, desenvolvida para aplicar conceitos reais de programação, lógica e desenvolvimento web.
+</p>
+<br>
+
+<div align="center">
+  
+  | 💻 Web (HTML, CSS & JS) | 🧠 Lógica com Python |
+  | :--- | :--- |
+  | Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM. | Scripts de automação, algoritmos de base e resolução de problemas no terminal. |
+
+</div>
+
+<br>
+<div align="center">
+  <img alt="Python" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="HTML5" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="CSS3" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="Git" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/mateusoliveira3107/projetos" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio%20de%20Projetos-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" height="40">
+    <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO%20DE%20PROJETOS-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" height="40">
   </a>
 </div>
 <br>
