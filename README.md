@@ -15,19 +15,19 @@
   
   <div style="position: absolute; bottom: 25px; left: 0; right: 0; text-align: center;">
     <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank" style="text-decoration: none; border-bottom: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none; vertical-align: middle;">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/mateusoliveira3107" target="_blank" style="text-decoration: none; border-bottom: none;">
-      <img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none;">
+      <img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none; vertical-align: middle;">
     </a>
     &nbsp;&nbsp;
     <a href="mailto:mateus.oliveira310709@gmail.com" style="text-decoration: none; border-bottom: none;">
-      <img src="https://api.iconify.design/ion/mail-outline.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none;">
+      <img src="https://api.iconify.design/ion/mail-outline.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none; vertical-align: middle;">
     </a>
     &nbsp;&nbsp;
     <a href="https://wa.me/5519997966017" target="_blank" style="text-decoration: none; border-bottom: none;">
-      <img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none;">
+      <img src="https://api.iconify.design/ion/logo-whatsapp.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px; border-style: none; vertical-align: middle;">
     </a>
   </div>
 </div>
@@ -84,7 +84,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/mateusoliveira3107/projetos" target="_blank">
-    <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO%20DE%20PROJETOS-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" height="100">
+    <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO%20DE%20PROJETOS-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" height="50">
   </a>
 </div>
 <br>
