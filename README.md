@@ -53,7 +53,7 @@
 ### ★ Estatísicas e Desempenho
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=transparent&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=transparent&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E&" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
