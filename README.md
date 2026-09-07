@@ -50,15 +50,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 
-### ★ Minhas Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
-
 ### ★ Estatísicas e Desempenho
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2B050B&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" alt="GitHub Stats" />
@@ -84,6 +75,15 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
+
+### ★ Minhas Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 
