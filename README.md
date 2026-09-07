@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, #2E0814, #9B1C31, #FF6B35, #9B1C31, #2E0814);">
+<img src="https://vercel.app" width="100%">
 
 ### ★ Meus Projetos & Repositórios
 
