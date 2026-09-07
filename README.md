@@ -66,15 +66,12 @@
 <br>
 
 <div align="center">
-  <p><b>💻 Desenvolvimento Web</b> (HTML, CSS & JavaScript)<br>
-  <i>Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM.</i></p>
-  
-  <p><b>🧠 Lógica de Programação</b> (Python)<br>
-  <i>Scripts de automação, algoritmos de base e resolução de problemas no terminal.</i></p>
+  | 💻 Web (HTML, CSS & JS) | 🧠 Lógica |
+  | :--- | :--- |
+  | Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM. | Scripts de automação, algoritmos de base e resolução de problemas no terminal. |
 </div>
 
 <br>
-
 <div align="center">
   <img alt="HTML5" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="CSS3" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
