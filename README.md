@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=21&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
 
   <p align="center">
-    <a href="https://github.com/mateusoliveira3107"><img src="https://komarev.com/ghpvc/?username=mateusoliveira3107&label=VISITAS%20AO%20PERFIL&color=9B1C31&style=for-the-badge" alt="Visitas ao perfil" /></a>
+    <a href="https://github.com/mateusoliveira3107"><img src="https://custom-icon-badges.demolab.com/github/issues/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=eye&label=VISITAS:%2012&logoColor=white" alt="Visitas ao perfil" /></a>
     <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white" alt="Seguidores" /></a>
     <a href="https://github.com/mateusoliveira3107?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=star&label=ESTRELAS&logoColor=white" alt="Estrelas" /></a>
   </p>
