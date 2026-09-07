@@ -18,14 +18,14 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 ### 💻 Sobre Mim
 
 ✦ Estou aprendendo programação e desenvolvendo lógica.<br>
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=801426,B3272B&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
