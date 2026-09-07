@@ -66,22 +66,11 @@
 <br>
 
 <div align="center">
+  <p><b>💻 Desenvolvimento Web</b> (HTML, CSS & JavaScript)<br>
+  <i>Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM.</i></p>
   
-  <table style="border-collapse: collapse; border: 1px solid #9B1C31;">
-    <thead>
-      <tr style="background-color: #2E0814; color: #ffffff;">
-        <th style="padding: 10px; border: 1px solid #9B1C31;">💻 Web (HTML, CSS & JS)</th>
-        <th style="padding: 10px; border: 1px solid #9B1C31;">🧠 Lógica</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #9B1C31;">Interfaces interativas, calculadoras web, estilização responsiva e manipulação do DOM.</td>
-        <td style="padding: 10px; border: 1px solid #9B1C31;">Scripts de automação, algoritmos de base e resolução de problemas no terminal.</td>
-      </tr>
-    </tbody>
-  </table>
-
+  <p><b>🧠 Lógica de Programação</b> (Python)<br>
+  <i>Scripts de automação, algoritmos de base e resolução de problemas no terminal.</i></p>
 </div>
 
 <br>
