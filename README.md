@@ -48,14 +48,14 @@
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-### ✦ Minhas Contribuições
+### ★ Minhas Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-### ✦ Constância
+### ★ Constância
 <p align="left">
   <img width="70%" src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=transparent&background=000000&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
 </p>
@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-### ✦ Meus Projetos & Repositórios
+### ★ Meus Projetos & Repositórios
 
 <p align="left">
   Explore abaixo minha central de estudos práticos, criada com o objetivo de aplicar conceitos reais de programação, lógica e desenvolvimento web.
