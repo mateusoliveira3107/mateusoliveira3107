@@ -25,7 +25,7 @@
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=3&section=header" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
@@ -34,7 +34,7 @@
 <img src="./profile/top-langs.svg" height="180">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=3&section=header" width="100%">
 
 ### 🛠️ Minhas Habilidades
 
@@ -47,7 +47,7 @@
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=3&section=header" width="100%">
 
 ### ★ Minhas Contribuições
 <picture>
@@ -56,7 +56,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=3&section=header" width="100%">
 
 ### ★ Constância
 <p align="left">
@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=3&section=header" width="100%">
 
 ### ★ Meus Projetos & Repositórios
 
