@@ -31,7 +31,8 @@
 ### 📊 Status do GitHub
 
 <div align="left">
-<img src="./profile/stats.svg" height="190">&nbsp;
+<img src="./profile/stats.svg" height="190">
+&nbsp;&nbsp;&nbsp;
 <img src="./profile/top-langs.svg" height="190">
 </div>
 
