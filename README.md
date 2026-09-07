@@ -25,7 +25,7 @@
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=40:9B1C31,70:D13438&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=40:660D1E 31,70:941D20&height=3&section=header" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
