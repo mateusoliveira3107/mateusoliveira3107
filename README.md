@@ -28,11 +28,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 
-### 📊 Estatísticas do GitHub
+### 📊 Status do GitHub
 
 <div align="left">
-<img src="./profile/stats.svg" height="180">
-<img src="./profile/top-langs.svg" height="180">
+<img src="./profile/stats.svg" height="190">
+<img src="./profile/top-langs.svg" height="190">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
