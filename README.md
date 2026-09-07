@@ -88,9 +88,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/mateusoliveira3107/projetos" target="_blank">
-  <span style="display: inline-block; border: 2px solid #9B1C31; border-radius: 6px; padding: 2px; background-color: #2B050B;">
-    <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO%20DE%20PROJETOS-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" style="display: block;">
-  </span>
+  <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO%20DE%20PROJETOS-360A11?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" style="height: 40px; border-radius: 20px ">
 </a>
 </div>
 <br>
