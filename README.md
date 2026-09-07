@@ -78,14 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveira3107&repo=projetos&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusoliveira3107&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</div>
-
 ### ✦ Meus Projetos & Repositórios
 
 <p align="left">
