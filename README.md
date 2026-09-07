@@ -57,4 +57,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+### ✦ Meus Projetos
+
+<div align="center">
+  <a href="https://github.com/mateusoliveira3107/projetos" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio%20de%20Projetos-2B050B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de Projetos" height="40">
+  </a>
+</div>
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=100&section=footer" alt="Banner do Perfil" style="width: 100%;">
