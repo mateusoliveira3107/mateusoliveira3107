@@ -18,14 +18,14 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=20&section=header">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 ### 💻 Sobre Mim
 
 ✦ Estou aprendendo programação e desenvolvendo lógica.<br>
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B080D,4D1315,FF6B35,D13438,9B1C31&height=4&section=header">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 
 ### 📊 Estatísticas do GitHub
 
@@ -34,7 +34,7 @@
 <img src="./profile/top-langs.svg" height="180">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B080D,4D1315,FF6B35,D13438,9B1C31&height=4&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 
 ### 🛠️ Minhas Habilidades
 
@@ -47,7 +47,7 @@
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 
 ### ★ Minhas Contribuições
 <picture>
@@ -56,7 +56,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusoliveira3107/mateusoliveira3107/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9B1C31,D13438,FF6B35,D13438,9B1C31&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 
 ### ★ Constância
 <p align="left">
@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<img src="https://vercel.app" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=header" width="100%">
 
 ### ★ Meus Projetos & Repositórios
 
