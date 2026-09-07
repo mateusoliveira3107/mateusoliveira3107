@@ -1,12 +1,7 @@
 <div align="center" style="position: relative; display: inline-block; width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=250&section=header&text=Mateus%20Silva%20de%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=21&fontWeight=600&animation=fadeIn" alt="Banner do Perfil" style="width: 100%;">
 
-<div align="center" style="background: linear-gradient(90deg, #2E0814, #9B1C31, #FF6B35); padding: 8px 0; margin-top: -4px;">
-  <marquee behavior="alternate" scrollamount="4" width="350px">
-    <span style="color: #FFFFFF; font-weight: 600; font-size: 16px; font-family: sans-serif;">Estudante de Desenvolvimento de Sistemas</span>
-  </marquee>
 </div>
-  
   <p align="center">
     <a href="https://github.com/mateusoliveira3107"><img src="https://img.shields.io/badge/VISITAS-12-9B1C31?style=for-the-badge&logo=eye&logoColor=FF6B35&labelColor=2E0814" alt="Visitas ao perfil" /></a>
     <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white" alt="Seguidores" /></a>
