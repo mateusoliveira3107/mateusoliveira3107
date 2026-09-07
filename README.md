@@ -91,4 +91,4 @@
 </div>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=100&section=footer" alt="Banner do Perfil" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:2E0814,60:9B1C31,30:D13438,0:FF6B35&height=100&section=footer" alt="Banner do Perfil" style="width: 100%;">
