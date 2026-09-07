@@ -59,7 +59,7 @@
 
 ### ✦ Meus Projetos & Repositórios
 
-<p align="center">
+<p align="left">
   Explore abaixo minha central de estudos práticos, criada com o objetivo de aplicar conceitos reais de programação, lógica e desenvolvimento web.
   Aqui você encontrará projetos e desafios que fazem parte da minha evolução. É onde coloco em prática o que aprendo, testo novas sintaxes e me esforço para resolver problemas reais..
 </p>
