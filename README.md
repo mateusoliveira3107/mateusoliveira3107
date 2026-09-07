@@ -18,8 +18,7 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=4&section=footer" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0814,40:9B1C31,70:D13438,100:FF6B35&height=20&section=header">
 ### 💻 Sobre Mim
 
 ✦ Estou aprendendo programação e desenvolvendo lógica.<br>
