@@ -62,6 +62,30 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=000000&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateusoliveira3107&theme=onedark&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusoliveira3107&theme=react-dark&hide_border=true&color=FF6B35&line=9B1C31&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusoliveira3107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusoliveira3107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveira3107&repo=projetos&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusoliveira3107&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+</div>
+
 ### ✦ Meus Projetos & Repositórios
 
 <p align="left">
