@@ -22,7 +22,8 @@
 
 ### 💻 Sobre Mim
 
-✦ Sou aluno do SESI CE 005 e faço Desenvolvimento de Sistemas no SENAI Luiz Varga. Estou focando bastante em criar minha base na área de tecnologia, aprendendo muito com as aulas, exercícios práticos e projetos de programação que nós desenvolvemos.
+Sou aluno do SESI CE 005 e faço Desenvolvimento de Sistemas no SENAI Luiz Varga. Estou focando bastante em criar minha base na área de tecnologia, aprendendo muito com as aulas, exercícios práticos e projetos de programação que nós desenvolvemos.
+&nbsp;
 ✦ Estou aprendendo programação e desenvolvendo lógica.<br>
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
@@ -32,9 +33,9 @@
 ### 📊 Status do GitHub
 
 <div align="left">
-<img src="./profile/stats.svg" height="190">
+<img src="./profile/stats.svg" height="195"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./profile/top-langs.svg" height="190">
+<img src="./profile/top-langs.svg" height="195"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
