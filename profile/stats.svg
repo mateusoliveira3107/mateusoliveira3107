@@ -1,6 +1,7 @@
 
       <svg
-        height="235"
+        width="467"
+        height="195"
         viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -8,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Status GitHub Mateus Silva de Oliveira, Rank: C</title>
-        <desc id="descId">Total de estrelas: 4, Total de Commits  : 265, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 3, Total de Commits  : 297, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -72,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 236.18895865743988;
+        stroke-dashoffset: 236.88786045351813;
       }
     }
   
@@ -161,7 +162,7 @@
         x="274.01"
         y="12.5"
         data-testid="stars"
-      >4</text>
+      >3</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -176,7 +177,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >265</text>
+      >297</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
