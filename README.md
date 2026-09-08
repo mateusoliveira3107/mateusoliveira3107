@@ -57,11 +57,6 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=mateusoliveira3107&locale=pt_BR&mode=weekly&background=transparent&border=9B1C31&stroke=D13438&ring=FF6B35&fire=9B1C31&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E&" alt="Sequência de contribuições" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateusoliveira3107&theme=onedark&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusoliveira3107&theme=react-dark&hide_border=true&color=FF6B35&line=9B1C31&point=FFFFFF&height=195" alt="Activity Graph" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=40:831729,70:B12C2F&height=3&section=header" width="100%">
 
 ### ★ Minhas Contribuições
