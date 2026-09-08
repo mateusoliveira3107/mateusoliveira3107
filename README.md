@@ -22,6 +22,7 @@
 
 ### 💻 Sobre Mim
 
+✦ Sou aluno do SESI CE 005 e faço Desenvolvimento de Sistemas no SENAI Luiz Varga. Estou focando bastante em criar minha base na área de tecnologia, aprendendo muito com as aulas, exercícios práticos e projetos de programação que nós desenvolvemos.
 ✦ Estou aprendendo programação e desenvolvendo lógica.<br>
 ✦ Cursando e aplicando conhecimentos de JavaScript, HTML, CSS e MySQL.<br>
 ✦ Em constante evolução na tecnologia!
