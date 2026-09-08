@@ -1,6 +1,7 @@
 
       <svg
-        height="195"
+        width="300"
+        height="165"
         viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -16,7 +17,7 @@
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
-            
+            /* Selector detects Firefox */
             .header { font-size: 15.5px; }
           }
           
@@ -40,7 +41,7 @@
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ffffff;
     }
     @supports(-moz-appearance: auto) {
-      
+      /* Selector detects Firefox */
       .stat { font-size:12px; }
     }
     .bold { font-weight: 700 }
@@ -63,7 +64,7 @@
           
 
           
-      
+      /* Animations */
       @keyframes scaleInAnimation {
         from {
           transform: translate(-5px, 5px) scale(0);
@@ -137,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="152.76"
+          width="150.9"
           height="8"
           fill="#3572A5"
         />
@@ -145,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="152.76"
+          x="150.9"
           y="0"
-          width="62.6"
+          width="63.19"
           height="8"
           fill="#e34c26"
         />
@@ -155,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.35999999999999"
+          x="214.09"
           y="0"
-          width="30.02"
+          width="30.65"
           height="8"
           fill="#f1e05a"
         />
@@ -165,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.38"
+          x="244.74"
           y="0"
-          width="14.33"
+          width="14.98"
           height="8"
           fill="#663399"
         />
@@ -175,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.71"
+          x="249.72"
           y="0"
           width="10.17"
           height="8"
@@ -185,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.88"
+          x="249.89"
           y="0"
           width="10.12"
           height="8"
@@ -198,28 +199,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 61.11%
+        Python 60.36%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 25.04%
+        HTML 25.28%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 12.01%
+        JavaScript 12.26%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 1.73%
+        CSS 1.99%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
