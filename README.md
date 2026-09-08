@@ -34,7 +34,7 @@ Sou aluno do SESI CE 005 e faço Desenvolvimento de Sistemas no SENAI Luiz Varga
 
 <div align="left">
 <img src="./profile/stats.svg" height="195"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="./profile/top-langs.svg" height="195"/>
 </div>
 
