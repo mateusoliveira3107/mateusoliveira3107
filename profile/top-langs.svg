@@ -16,7 +16,7 @@
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
+            
             .header { font-size: 15.5px; }
           }
           
@@ -40,7 +40,7 @@
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ffffff;
     }
     @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
+      
       .stat { font-size:12px; }
     }
     .bold { font-weight: 700 }
@@ -63,7 +63,7 @@
           
 
           
-      /* Animations */
+      
       @keyframes scaleInAnimation {
         from {
           transform: translate(-5px, 5px) scale(0);
