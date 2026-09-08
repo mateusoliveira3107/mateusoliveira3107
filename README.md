@@ -7,7 +7,7 @@
     <a href="https://github.com/mateusoliveira3107?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=star&label=ESTRELAS&logoColor=white" alt="Estrelas" /></a>
   </p>
   
-  <div align="center" style="position: absolute; bottom: 25px; left: 0; right: 0;">
+  <div align="center">
     <a href="https://www.linkedin.com/in/mateus-oliveira-297223434/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/mateusoliveira3107" target="_blank"><img src="https://api.iconify.design/ion/logo-github.svg?color=%23ffffff" height="28" width="28" style="background-color: #24292e; border-radius: 50%; padding: 3px;"></a>
