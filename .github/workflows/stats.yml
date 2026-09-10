@@ -34,9 +34,9 @@ jobs:
 
       - name: Forçar altura do card para 195
         run: |
-          sed -i 's/width="300"/width="340"/g' profile/top-langs.svg
+          sed -i 's/width="300"/width="330"/g' profile/top-langs.svg
           sed -i 's/height="165"/height="195"/g' profile/top-langs.svg
-          sed -i 's/viewBox="0 0 300 165"/viewBox="0 0 340 195"/g' profile/top-langs.svg
+          sed -i 's/viewBox="0 0 300 165"/viewBox="0 0 330 195"/g' profile/top-langs.svg
 
       - name: Salvar alterações
         run: |
