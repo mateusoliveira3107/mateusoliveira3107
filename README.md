@@ -3,8 +3,8 @@
   
   <p align="center">
     <a href="https://github.com/mateusoliveira3107"><img src="https://komarev.com/ghpvc/?username=mateusoliveira3107&color=9B1C31&labelColor=4A0E17&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" /></a>
-    <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white&cache=clear" alt="Seguidores" /></a>
-    <a href="https://github.com/mateusoliveira3107?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=star&label=ESTRELAS&logoColor=white&cache=clear" alt="Estrelas" /></a>
+    <a href="https://github.com/mateusoliveira3107?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/mateusoliveira3107?color=FF6B35&labelColor=2E0814&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white&cache=clean" alt="Seguidores" /></a>
+    <a href="https://github.com/mateusoliveira3107?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/mateusoliveira3107?color=9B1C31&labelColor=2E0814&style=for-the-badge&logo=star&label=ESTRELAS&logoColor=white&cache=clean" alt="Estrelas" /></a>
   </p>
   
   <div align="center">
